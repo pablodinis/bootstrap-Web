@@ -3,6 +3,6 @@
 Sitio creado utilizando Bootstrap. Añado a mayores Css customizado como también un ScrollReveal
 
 
-[Web] (https://pablodinis.github.io/bootstrap-Web)
+[Python Ecuador] (https://pablodinis.github.io/bootstrap-Web)
 
-[Python Ecuador](https://python.ec/)
+(https://python.ec/)
