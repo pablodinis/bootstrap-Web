@@ -3,5 +3,4 @@
 Sitio creado utilizando Bootstrap. Añado a mayores Css customizado como también un ScrollReveal
 
 
-[WEB] (https://www.pablodinis.com/)
-
+Código fuente del sitio de [Python Ecuador](https://python.ec/)
